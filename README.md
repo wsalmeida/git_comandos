@@ -20,7 +20,7 @@
 - modified: Editado mas não foi levado
 - Stage Changes to be committed: Pronta para ser comitado
 
-[1](git_comandos/lifecycle_git.png)
+[1](lifecycle_git.png)
 
 ## Comandos básicos
 - lista estado: `git status`
@@ -45,5 +45,3 @@
 
 ## Fontes 
 https://www.udemy.com/course/git-e-github-para-iniciantes/
-
-teste
