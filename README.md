@@ -20,7 +20,7 @@
 - modified: Editado mas não foi levado
 - Stage Changes to be committed: Pronta para ser comitado
 
-[1](lifecycle.png)
+![1](lifecycle.png)
 
 ## Comandos básicos
 - lista estado: `git status`
