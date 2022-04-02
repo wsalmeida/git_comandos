@@ -41,9 +41,8 @@
 - visualize somente nome arquivo modificado: `git diff --name-only`
 
 ## Setar Token de Acesso pessoal
-Token no git é um maneira segura de autenticação entre e sincronização entre
-repositórios local e remotos como esse comando você evita ficar digitando 
-usuário e senha a cada push.
+Token no git é um maneira segura de autenticação entrerepositórios local e 
+remotos como esse comando você evita ficar digitando usuário e senha a cada push.
  - Crie o token no github `profile->settings->developer->settings-personal->
 acess token->generetion token` coloque não esxprira e marque dando todos permissões
  - Clone seu repositório remoto
@@ -54,7 +53,7 @@ aplicar o comando para setar o token
 Após esse processo todos os push sobem sem a necessidade de digitar usuário e 
 senha.
 
-(/git_comandos/src/lifecycle.png)
+<p align="center"> <img src="https://github.com/wsalmeida/git_comandos/blob/main/src/lifecycle.png">
 
 ## Desfazendo edições
 - Estudar um pouco mais esse assunto
