@@ -20,7 +20,7 @@
 - modified: Editado mas não foi levado
 - Stage Changes to be committed: Pronta para ser comitado
 
-![1](lifecycle.png)
+<p align="center"> <img src="https://github.com/wsalmeida/git_comandos/blob/main/src/lifecycle.png">
 
 ## Comandos básicos
 - lista estado: `git status`
@@ -53,10 +53,4 @@ aplicar o comando para setar o token
 Após esse processo todos os push sobem sem a necessidade de digitar usuário e 
 senha.
 
-<p align="center"> <img src="https://github.com/wsalmeida/git_comandos/blob/main/src/lifecycle.png">
-
-## Desfazendo edições
-- Estudar um pouco mais esse assunto
-
-## Fontes 
-https://www.udemy.com/course/git-e-github-para-iniciantes/
+## Continua...
