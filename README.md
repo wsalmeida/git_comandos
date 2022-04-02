@@ -8,7 +8,7 @@
 - Exibe email: `git config user.email`
 - Exibe lista de configuração: `git config --list`
 
-* Atenção:
+Atenção:
 Os arquivos de configurações do git se localiza na pasta `$USER` com o
 nome de `.gitconfig` 
 
