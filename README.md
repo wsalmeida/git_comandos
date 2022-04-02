@@ -59,4 +59,4 @@ senha.
 Esse tipo de configuração torna as configurações salvas somente quando a sessão
 estiver ativa após o reinicio do sistema é necessaŕio repetir o procedimento
 
-# Continua... seu 
+# Continua...
