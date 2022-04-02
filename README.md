@@ -44,7 +44,7 @@
 Token no git é um maneira segura de autenticação entrerepositórios local e 
 remotos como esse comando você evita ficar digitando usuário e senha a cada push.
  - Crie o token no github `profile->settings->developer->settings-personal->
-acess token->generetion token` coloque não esxprira e marque dando todos permissões
+ acess token->generetion token` coloque não esxprira e marque dando todos permissões
  - Clone seu repositório remoto
  - Aplica as modificações locais e commit e push digitando usuário e senha
 É necessaŕio realizar esse processo antes de setar o token depois disso basta
@@ -56,4 +56,4 @@ senha.
 Esse tipo de configuração torna as configurações salvas somente quando a sessão
 estiver ativa após o reinicio do sistema é necessaŕio repetir o procedimento
 
-- Continua...
+# Continua...
