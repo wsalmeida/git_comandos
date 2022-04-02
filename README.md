@@ -8,6 +8,10 @@
 - Exibe email: `git config user.email`
 - Exibe lista de configuração: `git config --list`
 
+* Atenção:
+Os arquivos de configurações do git se localiza na pasta `$USER` com o
+nome de `.gitconfig` 
+
 ## Inicializando repositório
 - Crie uma pasta para seu projeto: `mkdir projeto`
 - Entre na pasta: `cd projeto`
@@ -56,4 +60,4 @@ senha.
 Esse tipo de configuração torna as configurações salvas somente quando a sessão
 estiver ativa após o reinicio do sistema é necessaŕio repetir o procedimento
 
-# Continua...
+# Continua... seu 
